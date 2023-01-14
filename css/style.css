@@ -4,7 +4,7 @@
   font-family: "Work Sans", sans-serif;
 }
 header {
-  background-color: #ffead1;
+  background: #ffead1;
 }
 .top_header {
   display: flex;
@@ -78,5 +78,5 @@ header {
   text-align: center;
 }
 .banner_img img {
-    padding-bottom: 45px;
+  padding-bottom: 45px;
 }
